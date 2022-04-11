@@ -14,7 +14,7 @@
 * Употреба на Modal Screen Presentation
 * Употреба на UITableView или UICollectionView - ✔
 * Употреба на поне една анимация - ✔
-* Употреба на custom protocol/delegation
+* Употреба на custom protocol/delegation - ✔
 * Използване на persistance - Core Data
 * Създаване на Custom View - ✔
 * Създаване на поне един Extension - ✔
