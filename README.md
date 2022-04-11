@@ -13,7 +13,7 @@
 * Употреба на UISplitViewController
 * Употреба на Modal Screen Presentation
 * Употреба на UITableView или UICollectionView - ✔
-* Употреба на поне една анимация
+* Употреба на поне една анимация - ✔
 * Употреба на custom protocol/delegation
 * Използване на persistance - Core Data
 * Създаване на Custom View - ✔
@@ -25,6 +25,6 @@
 * Употреба на Multithreading механизм - ✔
 * Употреба на UIScrollView - ✔
 * Извличане на данни от сървър (networking) - ✔
-* Използване на UIStackView
+* Използване на UIStackView - ✔
 * Custom / Convenience Init
 * Употреба на Singleton pattern 
